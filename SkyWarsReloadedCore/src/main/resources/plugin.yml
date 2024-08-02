@@ -1,9 +1,9 @@
-name: Skywars
+name: EnderSkywars
 main: com.walrusone.skywarsreloaded.SkyWarsReloaded
 version: ${project.version}
 api-version: 1.13
-website: https://gcnt.net/
-author: GaagjesCraft Network Team (GCNT)
+website: https://endermc.ir/
+author: ArtinAV
 softdepend:
   - Vault
   - PlaceholderAPI
